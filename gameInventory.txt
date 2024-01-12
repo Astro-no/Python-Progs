@@ -1,0 +1,3 @@
+The code describes the creation of a fantasy video game inventory system using a dictionary. 
+Each item is represented by a key (a string) with an associated value (an integer) indicating the quantity of that item in the player's inventory.
+It then introduces a function called displayInventory() that takes an inventory dictionary as input and prints a formatted list of items along with their quantities.
